@@ -38,7 +38,7 @@ Task: Text Classification / Sentiment Analysis
 
 Clone the repository:
 
-    git clone <YOUR_REPOSITORY_URL>
+    git clone https://github.com/binhnguyenag07-ops/HuggingFace-FastAPI-LAB.git
 
 Navigate to the project directory:
 
@@ -130,7 +130,7 @@ Run the additional validation tests:
 
 ## 10. Demonstration Video
 
-Video URL: 
+Video URL: https://drive.google.com/drive/u/0/folders/1a1sSM0p8MZuvaVxFf9UobNg8QBiIHHJ3
 
 The video demonstrates:
 
